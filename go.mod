@@ -1,4 +1,4 @@
-module github.com/willabides/goproject-tmpl
+module github.com/killa-beez/jsonappender
 
 go 1.15
 
